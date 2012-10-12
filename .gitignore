@@ -4,3 +4,23 @@ obj
 
 # mstest test results
 TestResults
+
+#User-specific files
+*.suo
+*.csproj.user
+*.sln.DotSettings.user
+
+#Vim backup files
+*~
+
+#Resharper files
+_ReSharper.*
+*.resharper
+*.resharper.user
+
+#Others
+*.cache
+
+#Packages
+src/packages/*
+!src/packages/repositories.config

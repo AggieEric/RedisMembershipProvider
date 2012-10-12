@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisMembershipProvider.Data", "RedisMembershipProvider\RedisMembershipProvider.Data.csproj", "{8BA35E6E-7ACC-48B3-BAAA-959E95229A8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisMembershipProvider.Core", "RedisMembershipProvider.Core\RedisMembershipProvider.Core.csproj", "{CB4F6E9C-5332-464D-86BC-5E9E90FDEC1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BA35E6E-7ACC-48B3-BAAA-959E95229A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BA35E6E-7ACC-48B3-BAAA-959E95229A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BA35E6E-7ACC-48B3-BAAA-959E95229A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BA35E6E-7ACC-48B3-BAAA-959E95229A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB4F6E9C-5332-464D-86BC-5E9E90FDEC1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB4F6E9C-5332-464D-86BC-5E9E90FDEC1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB4F6E9C-5332-464D-86BC-5E9E90FDEC1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB4F6E9C-5332-464D-86BC-5E9E90FDEC1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
